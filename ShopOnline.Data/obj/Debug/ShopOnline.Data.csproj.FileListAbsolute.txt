@@ -1,0 +1,12 @@
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Data.dll.config
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Data.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Data.pdb
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\bin\Debug\EntityFramework.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Common.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\bin\Debug\ShopOnline.Common.pdb
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\bin\Debug\EntityFramework.xml
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.csprojResolveAssemblyReference.cache
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Data\obj\Debug\ShopOnline.Data.pdb

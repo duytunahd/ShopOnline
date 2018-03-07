@@ -1,0 +1,11 @@
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\bin\Debug\ShopOnline.Service.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\bin\Debug\ShopOnline.Service.pdb
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\bin\Debug\ShopOnline.Common.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\bin\Debug\ShopOnline.Data.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\bin\Debug\ShopOnline.Model.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\bin\Debug\ShopOnline.Common.pdb
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\bin\Debug\ShopOnline.Data.pdb
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\bin\Debug\ShopOnline.Model.pdb
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\obj\Debug\ShopOnline.Service.csprojResolveAssemblyReference.cache
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\obj\Debug\ShopOnline.Service.dll
+E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Service\obj\Debug\ShopOnline.Service.pdb
