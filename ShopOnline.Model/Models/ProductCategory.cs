@@ -26,6 +26,6 @@ namespace ShopOnline.Model.Models
 
         public bool? HomeFlag { get; set; }
 
-        public virtual IEnumerable<Products> Products { get; set; }
+        public virtual IEnumerable<Product> Products { get; set; }
     }
 }
