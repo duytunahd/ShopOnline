@@ -8,3 +8,13 @@ E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Model\bin\Debug\EntityFramework.SqlServer
 E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Model\obj\Debug\ShopOnline.Model.csprojResolveAssemblyReference.cache
 E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Model\obj\Debug\ShopOnline.Model.dll
 E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Model\obj\Debug\ShopOnline.Model.pdb
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\obj\Debug\ShopOnline.Model.csprojResolveAssemblyReference.cache
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\obj\Debug\ShopOnline.Model.dll
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\obj\Debug\ShopOnline.Model.pdb
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\bin\Debug\ShopOnline.Model.dll.config
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\bin\Debug\ShopOnline.Model.dll
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\bin\Debug\ShopOnline.Model.pdb
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\bin\Debug\EntityFramework.dll
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\bin\Debug\EntityFramework.xml
+E:\HocTap\ASPMVC\Git\ShopOnline.Model\bin\Debug\EntityFramework.SqlServer.xml

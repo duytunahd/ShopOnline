@@ -20,6 +20,6 @@ namespace ShopOnline.Model.Models
         [ForeignKey("OrderID")]
         public virtual Order Order { set; get; }
         [ForeignKey("ProductID")]
-        public virtual Products Product { set; get; }
+        public virtual Product Product { set; get; }
     }
 }

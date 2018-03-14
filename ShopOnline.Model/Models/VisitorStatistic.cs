@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace ShopOnline.Model.Models
 {
     [Table("VisitorStatistics")]
-    class VisitorStatistic
+    public class VisitorStatistic
     {
         [Key]
 
