@@ -39,6 +39,7 @@ namespace ShopOnline.Model.Models
         public int? ViewCount { set; get; }
         [ForeignKey("CategoryID")]
         public virtual PostCategory Postcategory { set; get; }
+        public virtual IEnumerable<PostTag> PostTags { set; get; }
 
 
     }
