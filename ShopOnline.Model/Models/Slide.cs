@@ -19,6 +19,9 @@ namespace ShopOnline.Model.Models
 
         [MaxLength(500)]
         public string Description { get; set; }
+
+        [MaxLength(500)]
+        public string Url { get; set; }
         [MaxLength(500)]
         public string Image { get; set; }
 

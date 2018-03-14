@@ -15,10 +15,10 @@ namespace ShopOnline.Model.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
         [Required]
-        [MaxLength(50)]
+        [MaxLength(500)]
         public string Name { get; set; }
         [Required]
-        [MaxLength(256)]
+        [MaxLength(500)]
         public string URL { get; set; }
         public int? DisplayOrder { get; set; }
         [Required]
@@ -28,6 +28,6 @@ namespace ShopOnline.Model.Models
         [MaxLength(10)]
         public string Target { get; set; }
         [Required]
-        public string Status { get; set; }
+        public bool Status { get; set; }
     }
 }

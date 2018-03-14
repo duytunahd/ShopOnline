@@ -2,3 +2,8 @@ E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Common\bin\Debug\ShopOnline.Common.dll
 E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Common\bin\Debug\ShopOnline.Common.pdb
 E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Common\obj\Debug\ShopOnline.Common.dll
 E:\HocTap\ASPMVC\ShopOnline\ShopOnline.Common\obj\Debug\ShopOnline.Common.pdb
+E:\HocTap\ASPMVC\Git\ShopOnline.Common\bin\Debug\ShopOnline.Common.dll
+E:\HocTap\ASPMVC\Git\ShopOnline.Common\bin\Debug\ShopOnline.Common.pdb
+E:\HocTap\ASPMVC\Git\ShopOnline.Common\obj\Debug\ShopOnline.Common.csprojResolveAssemblyReference.cache
+E:\HocTap\ASPMVC\Git\ShopOnline.Common\obj\Debug\ShopOnline.Common.dll
+E:\HocTap\ASPMVC\Git\ShopOnline.Common\obj\Debug\ShopOnline.Common.pdb

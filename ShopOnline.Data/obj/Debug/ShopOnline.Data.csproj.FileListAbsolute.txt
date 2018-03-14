@@ -24,3 +24,5 @@ E:\HocTap\ASPMVC\Git\ShopOnline.Data\bin\Debug\ShopOnline.Common.pdb
 E:\HocTap\ASPMVC\Git\ShopOnline.Data\bin\Debug\ShopOnline.Model.pdb
 E:\HocTap\ASPMVC\Git\ShopOnline.Data\bin\Debug\EntityFramework.xml
 E:\HocTap\ASPMVC\Git\ShopOnline.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\HocTap\ASPMVC\Git\ShopOnline.Data\obj\Debug\ShopOnline.Data.Migrations.Initial.resources
+E:\HocTap\ASPMVC\Git\ShopOnline.Data\obj\Debug\ShopOnline.Data.csproj.GenerateResource.Cache
