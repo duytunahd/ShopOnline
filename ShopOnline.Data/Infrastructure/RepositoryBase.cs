@@ -3,14 +3,13 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ShopOnline.Data.Infrastructure
 {
     public abstract class RepositoryBase<T> : IRepository<T> where T : class
     {
         #region Properties
+
         private ShopOnLineDBContext DataContext;
         private readonly IDbSet<T> dbSet;
 
@@ -24,7 +23,8 @@ namespace ShopOnline.Data.Infrastructure
         {
             get { return DataContext ?? (DataContext = DbFactory.Init()); }
         }
-        #endregion
+
+        #endregion Properties
 
         protected RepositoryBase(IDbFactory dbFactory)
         {
@@ -32,22 +32,25 @@ namespace ShopOnline.Data.Infrastructure
 
             dbSet = DbContext.Set<T>();
         }
+
         #region Implementation
 
         public virtual void Add(T entity)
         {
             dbSet.Add(entity);
         }
+
         public virtual void Update(T entity)
         {
             dbSet.Attach(entity);
             DataContext.Entry(entity).State = EntityState.Modified;
-
         }
+
         public virtual void Delete(T entity)
         {
             dbSet.Remove(entity);
         }
+
         public virtual void DeleteMulti(Expression<Func<T, bool>> where)
         {
             IEnumerable<T> objects = dbSet.Where<T>(where).AsEnumerable();
@@ -56,6 +59,7 @@ namespace ShopOnline.Data.Infrastructure
                 dbSet.Remove(obj);
             }
         }
+
         public virtual T GetSingleByID(int id)
         {
             return dbSet.Find(id);
@@ -84,9 +88,9 @@ namespace ShopOnline.Data.Infrastructure
             }
             return DataContext.Set<T>().AsQueryable();
         }
+
         public T GetSingleByCondition(Expression<Func<T, bool>> Expression, string[] includes = null)
         {
-
             return GetAll(includes).FirstOrDefault(Expression);
         }
 
@@ -127,7 +131,7 @@ namespace ShopOnline.Data.Infrastructure
         {
             return DataContext.Set<T>().Count() > 0;
         }
-        #endregion
+
+        #endregion Implementation
     }
 }
-
